@@ -66,4 +66,6 @@ public class RegisterPage {
 	public WebElement getConfirmPassword() {
 		return ConfirmPassword;
 	}
+	
+	
 }
