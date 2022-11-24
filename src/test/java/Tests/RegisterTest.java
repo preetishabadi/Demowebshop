@@ -3,7 +3,6 @@ package Tests;
 import org.testng.annotations.Test;
 
 import POMPage.RegisterPage;
-import POMPage.loginPage;
 import generic_Library.BasePage;
 
 public class RegisterTest extends BasePage {
